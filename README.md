@@ -27,6 +27,7 @@ Select a **closed loop of edges** (loose edges and/or a group of edges) and run 
 [`examples/membrane_examples.igz`](examples/membrane_examples.igz) — frames to try, side by side from the origin: hypar, tent with two masts, pressure cushion, ridge cable, wavy edge, point tent (+ guide point).
 
 ## Changelog
+- **1.1** — own toolbar **Membrane** with one icon per command (Skin from Edges… · Edit Membrane…). It starts on a row of its own under the built-in toolbars; move, float or hide it like those (right-click on a toolbar). Icons drawn in IngeTrazo's own style, they follow the light/dark theme.
 - **1.0** — first release.
 
 ## Licence

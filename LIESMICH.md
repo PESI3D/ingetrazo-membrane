@@ -27,6 +27,7 @@ Eine **geschlossene Kantenschleife** auswählen (lose Kanten und/oder eine Grupp
 [`examples/membrane_examples.igz`](examples/membrane_examples.igz) — Rahmen zum Ausprobieren, nebeneinander ab Nullpunkt: Hypar, Zelt mit zwei Masten, Druckkissen, Gratseil, Wellenrand, Punktzelt (+ Hilfspunkt).
 
 ## Änderungen
+- **1.1** — eigene Werkzeugleiste **Membrane** mit einem Icon je Befehl (Skin from Edges… · Edit Membrane…). Sie erscheint in einer eigenen Zeile unter den eingebauten Leisten und lässt sich wie diese verschieben, abdocken oder ausblenden (Rechtsklick auf eine Leiste). Icons im Stil von IngeTrazo, passend zum hellen/dunklen Theme.
 - **1.0** — erste Veröffentlichung.
 
 ## Lizenz
