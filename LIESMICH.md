@@ -11,7 +11,7 @@ Spannt eine **Minimalfläche** (die Form einer Seifenhaut in einem Drahtrahmen) 
 2. `membrane_tool.py` in diesen Ordner kopieren.
 3. IngeTrazo neu starten → **Extensions ▸ Membrane ▸** *Skin from Edges… · Edit Membrane…* (auch im Rechtsklick-Menü).
 
-Benötigt IngeTrazo ≥ 0.5 (Extension-API 2).
+Benötigt IngeTrazo ≥ 0.5.6 (Extension-API 2) · getestet mit IngeTrazo 0.5.8.
 
 ## Bedienung
 Eine **geschlossene Kantenschleife** auswählen (lose Kanten und/oder eine Gruppe aus Kanten) und **Skin from Edges…** starten. Die Schleife darf räumlich gebogen sein (Sattel, Hypar, Wellenrand).

@@ -11,7 +11,7 @@ Spans a **minimal surface** (the shape a soap film takes in a wire frame) inside
 2. Copy `membrane_tool.py` into that folder.
 3. Restart IngeTrazo → **Extensions ▸ Membrane ▸** *Skin from Edges… · Edit Membrane…* (also on the right-click menu).
 
-Requires IngeTrazo ≥ 0.5 (extension API 2).
+Requires IngeTrazo ≥ 0.5.6 (extension API 2) · tested with IngeTrazo 0.5.8.
 
 ## How to use
 Select a **closed loop of edges** (loose edges and/or a group of edges) and run **Skin from Edges…**. The loop may be bent in 3D (saddle, hypar, wavy edge).
